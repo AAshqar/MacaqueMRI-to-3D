@@ -1,6 +1,6 @@
-# Monkey_MRI-to-3D
+# Macaque MRI-to-3D
 
-    Shell tcsh scripts to be run from the terminal for processing monkey brain MRI scans, mapping them to NMT template and ATLAS segmentations and also generating 3D stl files for all available segments. The scripts use commands from the AFNI software suite. https://afni.nimh.nih.gov/
+Shell tcsh scripts to be run from the terminal for processing monkey brain MRI scans, mapping them to NMT template and ATLAS segmentations and also generating 3D stl files for all available segments. The scripts use commands from the AFNI software suite. https://afni.nimh.nih.gov/
 
 ## Instructions
 
