@@ -21,11 +21,11 @@ Shell tcsh scripts to be run from the terminal for processing monkey brain MRI s
     ```
     | raw_DICOM\
     |   Subj_01\
-    |       Ses_01    
-    |       Ses_02
+    |       Ses_01 (DICOM sequence folder)    
+    |       Ses_02 (DICOM sequence folder)
     |   Subj_02\
-    |       Ses_01    
-    |       Ses_02
+    |       Ses_01 (DICOM sequence folder)
+    |       Ses_02 (DICOM sequence folder)
     |   ...
     ```
 
